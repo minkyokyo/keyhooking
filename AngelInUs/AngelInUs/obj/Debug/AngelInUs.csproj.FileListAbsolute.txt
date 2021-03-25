@@ -1,0 +1,15 @@
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\bin\Debug\AngelInUs.exe.config
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\bin\Debug\AngelInUs.exe
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\bin\Debug\AngelInUs.pdb
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\obj\Debug\AngelInUs.csprojAssemblyReference.cache
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\obj\Debug\AngelInUs.Form1.resources
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\obj\Debug\AngelInUs.Properties.Resources.resources
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\obj\Debug\AngelInUs.csproj.GenerateResource.cache
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\obj\Debug\AngelInUs.csproj.CoreCompileInputs.cache
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\obj\Debug\AngelInUs.exe
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\obj\Debug\AngelInUs.pdb
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\bin\Debug\Interop.WMPLib.dll
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\bin\Debug\AxInterop.WMPLib.dll
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\obj\Debug\Interop.WMPLib.dll
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\obj\Debug\AxInterop.WMPLib.dll
+D:\ME\DevelopStudy\C#\AngelInUs\AngelInUs\obj\Debug\AngelInUs.csproj.ResolveComReference.cache
